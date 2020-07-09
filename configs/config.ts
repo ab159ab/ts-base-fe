@@ -2,7 +2,7 @@ const development = {
   host: () => '127.0.0.1',
   port: () => '5321',
   bk: {
-    host: () => 'http://api.lead-gen.com',
+    host: () => 'http://localhost:4321',
     port: () => '4321',
     fullUrl: () => 'http://localhost:4321',
   },
